@@ -1,5 +1,5 @@
 .u-section-1 {
-    background-image: url("images/TextosProfessores.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/MarcosV6527/teste@master/TextosProfessores.jpg");
     background-position: 50% 50%;
   }
   
@@ -23,7 +23,7 @@
   .u-section-1 .u-image-1 {
     width: 361px;
     height: 361px;
-    background-image: url("images/Paulo.png");
+    background-image: url("https://cdn.jsdelivr.net/gh/MarcosV6527/teste@master/Paulo.png");
     background-position: 50% 50%;
     margin: 46px auto 0 20px;
   }
